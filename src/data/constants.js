@@ -21,7 +21,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1E5sQnYJcRi4GbTALa77auYDtwWfJWtI7/view?usp=sharing",
   linkedin: "linkedin.com/in/bhargav-hegde-",
   twitter: "https://twitter.com/BhargavHegde17",
-  insta: "",
+  insta: "https://www.instagram.com/i__am_bhargav/?next=%2F",
   facebook: "https://www.facebook.com/bhargav.hegde.9843",
 };
 
