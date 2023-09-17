@@ -106,7 +106,7 @@ export const skills = [
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png",
       },
       {
         name: "Firebase",
