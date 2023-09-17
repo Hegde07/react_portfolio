@@ -10,6 +10,7 @@ import portfolio from "../project_imgs/portfolio-1.png";
 import quiz from "../project_imgs/quizapp.png";
 import quotes from "../project_imgs/quotes.png";
 import todo from "../project_imgs/todo.png";
+import social from "../project_imgs/social.png"
 
 export const Bio = {
   name: "Bhargav Hegde",
@@ -261,6 +262,17 @@ export const projects = [
     github: "https://github.com/Hegde07/react-bhargav-ecommerce",
     webapp:
       "https://e-commerce-backend-git-main-projectsbhargav550-gmailcom.vercel.app/login",
+  },
+   {
+    id: 2,
+    title: "Sociopedia",
+    date: "Aug 2023 - Sept 2023",
+    description: "Sociopedia is an innovative social media platform built on a robust tech stack, featuring React and Material UI for a sleek and user-friendly front-end experience. The app harnesses the power of Redux for efficient state management, ensuring seamless interactions. The backend is powered by MongoDB for scalable and efficient data storage, with Node.js and Express.js providing a solid foundation for server-side operations. Security is a top priority, with JWT (JSON Web Tokens) employed for authentication and authorization, guaranteeing user data protection and privacy. Sociopedia aims to revolutionize social networking with its cutting-edge technology stack, offering users a secure and engaging online community.",
+    image:social ,
+    tags: ["React","Material UI","Redux","MongoDB","Node JS","Express JS","JWT"],
+    category: "web app",
+    github: "https://github.com/Hegde07/mern-social-media",
+    webapp: "https://mern-social-media-2.vercel.app/",
   },
   {
     id: 2,
