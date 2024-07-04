@@ -215,6 +215,23 @@ export const experiences = [
       "Canva Pro",
     ],
   },
+  {
+    id: 1,
+    img: "https://www.impactanalytics.co/wp-content/uploads/2021/02/IA_Full_Logo.png.webp",
+    role: "Software Engineer Intern",
+    company: "Impact Analytics.",
+    date: "Nov 2023 - May 2024",
+    desc: "During my internship as a Software Engineer, I gained hands-on experience in Frontend development, contributing to various projects and honing my technical skills. I developed dynamic and responsive user interfaces using React.js, and utilized CSS for styling applications, ensuring cross-browser compatibility. Implementing a JSON configurator approach allowed me to manage application settings and streamline data handling processes effectively. I collaborated with team members using Bitbucket for version control, managing code repositories and facilitating peer reviews. Project progress and task management were tracked using Jira, ensuring timely completion of deliverables and effective communication within the team. To enhance the visual appeal and functionality of web applications, I integrated Material UI components. I leveraged Git for source code management, maintaining code integrity and supporting collaborative development workflows. Additionally, I focused on code optimization techniques to improve application performance and reduce load times. Through this internship, I developed a strong foundation in modern web development practices and tools, preparing me for future challenges in the software engineering field.",
+    skills: [
+      "React.Js",
+      "CSS",
+      "JavaScript",
+      "Material UI",
+      "Bitbucket",
+      "Jira",
+      "Git",
+    ],
+  },
 ];
 
 export const education = [
@@ -265,14 +282,14 @@ export const projects = [
   },
    {
     id: 2,
-    title: "Sociopedia",
+    title: "X clone",
     date: "Aug 2023 - Sept 2023",
-    description: "Sociopedia is an innovative social media platform built on a robust tech stack, featuring React and Material UI for a sleek and user-friendly front-end experience. The app harnesses the power of Redux for efficient state management, ensuring seamless interactions. The backend is powered by MongoDB for scalable and efficient data storage, with Node.js and Express.js providing a solid foundation for server-side operations. Security is a top priority, with JWT (JSON Web Tokens) employed for authentication and authorization, guaranteeing user data protection and privacy. Sociopedia aims to revolutionize social networking with its cutting-edge technology stack, offering users a secure and engaging online community.",
+    description: "X Clone is a sophisticated social media web application that emulates the functionalities of popular microblogging platforms. It allows users to register and log in securely, leveraging JSON Web Tokens (JWT) for authentication. Once authenticated, users can create, view, and delete tweets, enhancing their social engagement. The application also supports user profile management, enabling users to view and update their personal information and tweet history. Additionally, users can interact with tweets by liking posts, fostering a vibrant community. The frontend is developed using React for a dynamic user interface, styled with Tailwind CSS for a modern look, and managed with Redux for efficient state management. The backend is built with Node.js and Express.js, providing a robust API, while MongoDB serves as the database to store user data and tweets. This tech stack ensures that X Clone is both scalable and secure, offering a seamless and engaging user experience.",
     image:social ,
-    tags: ["React","Material UI","Redux","MongoDB","Node JS","Express JS","JWT"],
+    tags: ["React","Tailwind CSS","Redux","MongoDB","Node JS","Express JS","JWT"],
     category: "web app",
-    github: "https://github.com/Hegde07/mern-social-media",
-    webapp: "https://mern-social-media-2.vercel.app/",
+    github: "https://github.com/Hegde07/twitter-main",
+    webapp: "https://twitter-main.vercel.app/",
   },
   {
     id: 2,
