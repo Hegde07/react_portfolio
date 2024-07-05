@@ -10,7 +10,7 @@ import portfolio from "../project_imgs/portfolio-1.png";
 import quiz from "../project_imgs/quizapp.png";
 import quotes from "../project_imgs/quotes.png";
 import todo from "../project_imgs/todo.png";
-import social from "../project_imgs/social.png"
+import x_clone from "../project_imgs/x_clone.png"
 
 export const Bio = {
   name: "Bhargav Hegde",
@@ -145,7 +145,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logo@2x.png",
       },
       {
         name: "GitHub",
@@ -285,7 +285,7 @@ export const projects = [
     title: "X clone",
     date: "Aug 2023 - Sept 2023",
     description: "X Clone is a sophisticated social media web application that emulates the functionalities of popular microblogging platforms. It allows users to register and log in securely, leveraging JSON Web Tokens (JWT) for authentication. Once authenticated, users can create, view, and delete tweets, enhancing their social engagement. The application also supports user profile management, enabling users to view and update their personal information and tweet history. Additionally, users can interact with tweets by liking posts, fostering a vibrant community. The frontend is developed using React for a dynamic user interface, styled with Tailwind CSS for a modern look, and managed with Redux for efficient state management. The backend is built with Node.js and Express.js, providing a robust API, while MongoDB serves as the database to store user data and tweets. This tech stack ensures that X Clone is both scalable and secure, offering a seamless and engaging user experience.",
-    image:social ,
+    image:x_clone ,
     tags: ["React","Tailwind CSS","Redux","MongoDB","Node JS","Express JS","JWT"],
     category: "web app",
     github: "https://github.com/Hegde07/twitter-main",
